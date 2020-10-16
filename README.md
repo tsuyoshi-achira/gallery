@@ -3,7 +3,7 @@
 ----
 
 ----
-# Fusion 360
+# Autodesk [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) 
 
 ## GUNDAM (RX-78)
 
@@ -13,7 +13,7 @@
 ----
 
 ----
-# CLO|3D
+#  Virtual Fashion [CLO|3D](https://www.clo3d.com/)
 
 ## BN Costume (Garmants)
 
@@ -22,7 +22,7 @@
  ---
 
 ----
-# Blender
+# [Blender](https://www.blender.org/)
 
 ## Yuki Mori@Space Battleship
 
