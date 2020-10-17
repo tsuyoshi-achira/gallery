@@ -19,18 +19,21 @@
 
 ## BN Costume (Garmants)
 
- * <img src="clo/BN_costume.1.png" width="512"><img src="clo/BN_costume.2.png" width="512">  
- 
- ---
+|||
+|---|---|
+|<img src="clo/BN_costume.1.png" width="512">|<img src="clo/BN_costume.2.png" width="512">|
+
+----
 
 ----
 # [Blender](https://www.blender.org/)
 
 ## Yuki Mori@Space Battleship
 
- * <img src="blender/Yuki_Mori.7.PNG" width="1024">  
- * <img src="blender/Yuki_Mori.10.PNG" width="1024">  
- 
+||
+|---|
+|<img src="blender/Yuki_Mori.7.PNG" width="1024">|
+|<img src="blender/Yuki_Mori.10.PNG" width="1024">|
 ----
 
 ----
