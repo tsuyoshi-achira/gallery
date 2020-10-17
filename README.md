@@ -8,16 +8,18 @@
 ## GUNDAM (RX-78)
 
 <table>
-<td> 
 <tr>
+<td> 
 <img src="fusion360/Gundam.3.PNG" width="512">
 <img src="fusion360/Gundam.4.PNG" width="512">
+</td>
 </tr>
 <tr>
+<td> 
 <img src="fusion360/Gundam.5.PNG" width="512">
 <img src="fusion360/Gundam.6.PNG" width="512">
-</tr>
 </td>
+</tr>
 </table>
 ----
 
