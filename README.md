@@ -39,7 +39,7 @@
 |---|
 |<img src="blender/Yuki_Mori.7.PNG" width="1024">|
 |<img src="blender/Yuki_Mori.10.PNG" width="1024">|
-|<img src="blender/Yuki_Mori_Legs.PNG" width="768">|
+|<img src="blender/Yuki_Mori_Legs.PNG" width="720">|
 ----
 
 ----
