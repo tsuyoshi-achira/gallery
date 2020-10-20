@@ -37,7 +37,6 @@
 
 ||
 |---|
-|<img src="blender/Yuki_Mori.7.PNG" width="1024">|
 |<img src="blender/Blank.PNG" width="64">|
 |<font size=6>Renderer: Eevee</font>|
 |<img src="blender/Yuki_Mori.10.PNG" width="1024">|
@@ -45,6 +44,7 @@
 |<font size=6>Renderer: Eevee</font><font size=4> (Preview Renderer)</font>|
 |<img src="blender/Yuki_Mori_Hands.PNG" width="1024">|
 |<img src="blender/Yuki_Mori_Foots.PNG" width="1024">|
+|<img src="blender/Yuki_Mori_Face.PNG" width="1024">|
 ----
 
 ----
