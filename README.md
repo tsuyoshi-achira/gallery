@@ -9,7 +9,7 @@
 
 |   |   |
 |---|---|
-|<img src="fusion360/Gundam.3.PNG" width="512">|<img src="fusion360/Gundam.4.PNG" width="512">|
+|<img src="fusion360/Gundam.3.PNG" width="512">|<img src="fusion360/Gundam.2.PNG" width="512">|
 |<img src="fusion360/Gundam.5.PNG" width="512">|<img src="fusion360/Gundam.6.PNG" width="512">|
 
 ----
@@ -44,6 +44,8 @@
 |<font size=6>Renderer: Eevee</font><font size=4> (Preview Renderer)</font>|
 |<img src="blender/Yuki_Mori_Hands.PNG" width="1024">|
 |<img src="blender/Yuki_Mori_Foots.PNG" width="1024">|
+|<img src="blender/Blank.PNG" width="64">|
+|<font size=6>Renderer: Eevee</font><font size=4> (Preview Renderer)</font>|
 |<img src="blender/Yuki_Mori_face.PNG" width="1024">|
 ----
 
