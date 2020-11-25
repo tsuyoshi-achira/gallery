@@ -14,6 +14,8 @@
 |<img src="Kyoko_Fukada.PNG" width="512">|
 |<img src="Haruka_Ayase.PNG" width="512">|
 ----
+## Haruka Ayase V.2
+|<img src="HarukaAyase_Eyes.jpg" width="512">|
 
 ----
 Copyright © 2020 Tsuyoshi Achira. All Rights Reserved.

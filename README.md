@@ -48,6 +48,12 @@
 |<font size=6>Renderer: Eevee</font><font size=4> (Preview Renderer)</font>|
 |<img src="blender/Yuki_Mori_face.PNG" width="1024">|
 ----
+|||
+|---|---|
+|<font size=6>Haruka Ayase V.2</font>|<font size=4> (Preview Renderer)</font>|
+|<img src="blender/KeenTools.FaceBuilder/Haruka_Ayase.PNG" width="512">|<img src="blender/KeenTools.FaceBuilder/HarukaAyase_Eyes.jpg" width="512">|
+----
 
+----
 ----
 Copyright © 2020 Tsuyoshi Achira. All Rights Reserved.
